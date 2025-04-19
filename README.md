@@ -30,23 +30,7 @@ Bu proje, kullanıcıların film izleme geçmişlerine dayalı olarak basit bir 
 
 ## Kurulum
 
-1.  **Projeyi klonlayın veya indirin:**
-    ```bash
-    # Eğer git kullanıyorsanız:
-    # git clone <repository_url>
-    # cd <repository_directory>
-    ```
-
-2.  **Python Sanal Ortamı Oluşturun (Önerilir):**
-    ```bash
-    python -m venv venv
-    # Windows
-    .\venv\Scripts\activate
-    # macOS/Linux
-    source venv/bin/activate
-    ```
-
-3.  **Bağımlılıkları Yükleyin:**
+**Bağımlılıkları Yükleyin:**
     ```bash
     pip install -r requirements.txt
     ```
